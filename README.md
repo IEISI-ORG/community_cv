@@ -54,16 +54,16 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 ### Conference Program & Organizing Committees
 
 #### APNIC/APRICOT Conference Leadership
-- **APNIC 61/APRICOT 2026 Program Committee** (Jakarta, Indonesia) - Evaluated submissions and organized conference program
-- **APNIC 61/APRICOT 2026 Fellowship Committee** (Jakarta, Indonesia) - Selected and mentored fellowship recipients
+- **APNIC 61/APRICOT 2026 Program Committee** (Jakarta, Indonesia) - Evaluated submissions for the conference program
+- **APNIC 61/APRICOT 2026 Fellowship Committee** (Jakarta, Indonesia) - Selected fellowship recipients
 - **APNIC 58 Program Committee Co-Chair** (Wellington, New Zealand, 2024) - Led program committee and conference organization
 - **APNIC 58 Fellowship Committee** (Wellington, New Zealand, 2024) - Selected and mentored fellowship recipients
-- **APNIC 56 Program Committee** (Kyoto, Japan, 2023) - Evaluated submissions and organized conference program
-- **APNIC 55/APRICOT 2023 Program Committee** (Manila, Philippines, 2023) - Evaluated submissions and organized conference program
-- **APNIC 55/APRICOT 2023 Fellowship Committee** (Manila, Philippines, 2023) - Selected and mentored fellowship recipients
-- **APNIC 54 Program Committee** (Singapore, 2022) - Evaluated submissions and organized conference program
-- **APNIC 54 Fellowship Committee** (Singapore, 2022) - Selected and mentored fellowship recipients
-- **APNIC 53/APRICOT 2022 Program Committee** (Online, 2022) - Evaluated submissions and organized virtual conference program
+- **APNIC 56 Program Committee** (Kyoto, Japan, 2023) - Evaluated submissions for the conference program
+- **APNIC 55/APRICOT 2023 Program Committee** (Manila, Philippines, 2023) - Evaluated submissions for the conference program
+- **APNIC 55/APRICOT 2023 Fellowship Committee** (Manila, Philippines, 2023) - Selected fellowship recipients
+- **APNIC 54 Program Committee** (Singapore, 2022) - Evaluated submissions for the conference program
+- **APNIC 54 Fellowship Committee** (Singapore, 2022) - Selected fellowship recipients
+- **APNIC 53/APRICOT 2022 Program Committee** (Online, 2022) - Evaluated submissions for the conference program
 - **APNIC 52 Technical Session Moderator** (Online, 2021) - Facilitated DNS security presentations by Geoff Huston and Edward Lewis
 - **APNIC 51/APRICOT 2021 Program Committee** (Online, 2021) - Evaluated submissions and organized virtual conference program (as Consultant, IO Networks)
 - **APNIC 49/APRICOT 2020 Organizing Committee** (Melbourne, Australia, 2020) - Network Committee, delivered conference network infrastructure (via IX Australia/Internet Association of Australia)
