@@ -20,6 +20,14 @@
 - **Principal Consultant** - IEISI.ORG (The Internet Engineering & Infrastructure Strategic Initiative)
 - **Secretary** - PACIXP
 - **Routing Security SIG Chair** - APNIC (2025-2027)
+
+---
+
+## Industry Memberships
+
+- **Member** - Engineers Australia (MIEAust) - College of ITEE, College of Leadership & Management
+- **Professional Member** - Internet Association of Australia Ltd (IX Australia)
+- **Afiliated Member** - Governance Institute of Australia
 - **Member** - auDA (.au Domain Administration)
 - **Member** - InternetNZ (.nz Domain Administration)
 - **Member** - PICISOC (Pacific Islands Chapter of the Internet Society)
