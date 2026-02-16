@@ -20,6 +20,7 @@
 - **Principal Consultant** - IEISI.ORG (The Internet Engineering & Infrastructure Strategic Initiative)
 - **Secretary** - PACIXP
 - **Routing Security SIG Chair** - APNIC (2025-2027)
+- **PeeringDB** - Product Committee
 
 ---
 
