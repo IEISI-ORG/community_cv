@@ -18,9 +18,9 @@
 ## Current Roles
 
 - **Principal Consultant** - IEISI.ORG (The Internet Engineering & Infrastructure Strategic Initiative)
-- **Secretary** - PACIXP
+- **Secretary** - PACIXP (Sep 2024 onwards)
 - **Routing Security SIG Chair** - APNIC (2025-2027)
-- **PeeringDB** - Product Committee
+- **PeeringDB** - Product Committee (Oct 2024 onwards)
 
 ---
 
