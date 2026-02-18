@@ -136,6 +136,22 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **ISOC IXP Workshop Pakistan** (Online, August 2023) - Co-instructor, 61 registered attendees, intermediate-level IXP configuration and operation
 - **119th IETF Brisbane** (2024) - Standards development participation representing APNIC interests
 
+#### Australian Internet Governance Forum (auIGF / NetThing)
+
+* **auIGF Steering Committee Member** (Current) – Active committee member 
+  of Australia's national Internet Governance Forum, formally recognised by 
+  the UN IGF Secretariat as Australia's national IGF initiative
+
+* **NetThing 2023 Steering Committee Member** (Brisbane, 28 August 2023) – 
+  Served on the organising committee for the 5th annual NetThing Forum, 
+  co-located with APrIGF, PacIGF, and yIGF at Brisbane Convention and 
+  Exhibition Centre. Event attracted 786 registrations from 64 countries.
+
+* **NetThing 2023 Speaker** – "Australia's Internet Resilience Extends 
+  Beyond Its Borders" – Panel presentation with Robbie Mitchell (Internet 
+  Society), moderated by George Pongas (GoDaddy). Explored Australia's role 
+  in regional internet resilience and capacity development across Asia-Pacific.
+
 #### Pacific Islands Telecommunications Association (PITA)
 - **PITA 29 AGM** (Solomon Islands, 2025) - Peering Workshop facilitator
 - **PITA 28 AGM** (Vanuatu, 2024) - Technical participation and APNIC representation
