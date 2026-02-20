@@ -21,7 +21,7 @@
 - **Secretary** - PACIXP (Sep 2024 onwards)
 - **Routing Security SIG Chair** - APNIC (2025-2027)
 - **PeeringDB** - Product Committee (Oct 2024 onwards)
-- **auIGF Steering Committee Member** - Member 
+- **auIGF Steering Committee** - Member 
 
 ---
 
