@@ -14,19 +14,24 @@ With 30+ years of hands-on experience building and operating mission-critical in
 
 ---
 
-## What We Bring to Development Engagements
+## What We Bring to Every Engagement
 
+- **Speed and experience** — overqualified for most assignments by design. We diagnose quickly, identify systemic solutions that are invisible to those too close to the problem, and begin delivering value from day one
+- **Objectivity** — not captured by internal politics or existing modus operandi, IEISI observes organisations from the outside with clarity, identifying non-functional processes and making changes purely in the interest of the client
 - **Infrastructure development** from concept to operational reality, with deep understanding of the technical, regulatory, and economic factors that determine whether projects succeed in the field
-- **Capacity building** designed to transfer knowledge, not create dependency — training programs adapted for diverse technical backgrounds, cultural contexts, and organisational environments
 - **Governance expertise** grounded in real-world experience with RIRs, multi-stakeholder bodies, and member-owned organisations across the Asia-Pacific
 - **Funding strategy** that bridges technical requirements and donor expectations, informed by $22M+ in government grant management experience
 - **Interim executive leadership** for organisations navigating critical transitions, with clear entry objectives and sustainable handover built in from day one
 
 ---
 
-## Our Philosophy
+## Knowledge Transfer Is the Deliverable
 
-Every engagement begins with clearly defined objectives and ends with a sustainable handover. We build internal capability, not consulting dependency. We don't create relationships that require us to stay — we create organisations and people that can operate independently long after we leave.
+The most important thing an interim engagement produces is not the immediate outcome — it's what stays behind after we leave. IEISI transfers know-how and capability to internal teams throughout every engagement, whether that means coaching junior technical staff, equipping existing managers with tools they didn't have before, or building governance frameworks that operate independently long after the assignment ends.
+
+We build internal capability, not dependency. The skills, frameworks, and institutional knowledge we develop remain in your organisation well beyond our involvement. That is how results consolidate and strategic continuity survives.
+
+In a development context, this principle goes further still. Building sustainable technical capacity in underserved regions — not just delivering a project, but ensuring communities and organisations can operate, maintain, and evolve their own infrastructure — is the measure of genuine impact. It is what distinguishes development work from aid dependency.
 
 ---
 
