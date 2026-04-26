@@ -64,6 +64,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 ### Conference Program & Organizing Committees
 
 #### APNIC/APRICOT Conference Leadership
+- **APNIC 62 Program Committee** (Mumbai, India) - Evaluating submissions for the conference to be held in September 2026
 - **APNIC 61/APRICOT 2026 Program Committee** (Jakarta, Indonesia) - Evaluated submissions for the conference program
 - **APNIC 61/APRICOT 2026 Fellowship Committee** (Jakarta, Indonesia) - Selected fellowship recipients
 - **APNIC 58 Program Committee Co-Chair** (Wellington, New Zealand, 2024) - Led program committee and conference organization
@@ -154,6 +155,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   in regional internet resilience and capacity development across Asia-Pacific.
 
 #### Pacific Islands Telecommunications Association (PITA)
+- **PITA 30 AGM** (Cook Islands, 2026) - Business presentation on Routing Security
 - **PITA 29 AGM** (Solomon Islands, 2025) - Peering Workshop facilitator
 - **PITA 28 AGM** (Vanuatu, 2024) - Technical participation and APNIC representation
 - **PITA 27 AGM** (Papua New Guinea, 2023) - "Internet Exchange Points" presentation on traffic efficiency
