@@ -23,7 +23,7 @@
 - **PeeringDB** - Product Committee (Oct 2024 onwards)
 - **auIGF Multistakeholder Steering Committee** - Member 
 - **Founder & CEO/CTO** - [HIT Pacific Broadband](https://hitpacific.com.au/plans/)
-- **Chapter Lead Queensland** - Digital Directors ANZ
+- **Chapter Lead Queensland** - [Digital Directors ANZ](https://digitaldirectors.com.au/)
 
 ---
 
