@@ -22,13 +22,13 @@
 - **Routing Security SIG Chair** - APNIC (2025-2027)
 - **PeeringDB** - Product Committee (Oct 2024 onwards)
 - **auIGF Multistakeholder Steering Committee** - Member 
-- **Founder & CEO/CTO** - [HIT Pacific Broadband](https://hitpacific.com.au/plans/)
 - **Chapter Lead Queensland** - [Digital Directors ANZ](https://digitaldirectors.com.au/)
 
 ---
 
 ## Industry Memberships
 
+- **Full Member** - Digital Directors Australia & New Zealand
 - **Member** - Engineers Australia (MIEAust) - College of ITEE, College of Leadership & Management
 - **Professional Member** - Internet Association of Australia Ltd (IX Australia)
 - **Afiliated Member** - Governance Institute of Australia
