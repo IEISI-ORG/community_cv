@@ -10,7 +10,7 @@ IEISI brings both.
 
 ## Operational Credibility That Others Can't Match
 
-With 30+ years of hands-on experience building and operating mission-critical internet infrastructure across 56 Asia-Pacific economies, IEISI's Principal Consultant Terry Sweetser has been in the room — and in the field — for the full arc of internet development in this region. From founding Australia's first member-owned peering point in 1997, to scaling a national satellite internet provider to 50,000+ customers, to developing IXPs in Fiji, Vanuatu, and Samoa, to training 2,000+ network engineers across the Pacific: this is operational depth that no amount of theoretical consulting can replicate.
+With 30+ years of hands-on experience spanning in-person delivery across 21 Asia-Pacific economies and, as APNIC's Routing Security SIG Chair, remote programmatic coverage across all 56 economies in APNIC's four subregions, IEISI's Principal Consultant Terry Sweetser has been in the room — and on the call — for the full arc of internet development in this region. From founding Australia's first member-owned peering point in 1997, to scaling a national satellite internet provider to 50,000+ customers, to leading APNIC's Pacific IXP development program — a full exchange refresh in Fiji and exchange builds in Vanuatu and Samoa, the latter completed in 2026 by the team he built — to training 2,000+ network engineers across the Pacific: this is operational depth that no amount of theoretical consulting can replicate. That IXP work continues today through his role as Secretary of PACIXP, the Pacific's first multi-national regional exchange.
 
 ---
 
