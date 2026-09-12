@@ -51,12 +51,12 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 *Developing next-generation Internet professionals across South Asia*
 
 #### South Asian Network Operators Group (SANOG)
-- **SANOG 42 Fellowship Committee** - APNIC Representative
-- **SANOG 41 Fellowship Committee** - APNIC Representative
+- **SANOG 42 Fellowship Committee** (Islamabad, Pakistan, October 2024) - APNIC Representative
+- **SANOG 41 Fellowship Committee** (Mumbai, India, April 2024) - APNIC Representative
 
 #### Bangladesh Network Operators Group (bdNOG)
-- **bdNOG 19 Fellowship Committee** (2025) - APNIC Representative
-- **bdNOG 18 Fellowship Committee** (2024) - APNIC Representative
+- **bdNOG 19 Fellowship Committee** (Dhaka, Bangladesh, May 2025) - APNIC Representative
+- **bdNOG 18 Fellowship Committee** (Cox's Bazar, Bangladesh, July 2024) - APNIC Representative
 - **bdNOG 17 Fellowship Committee** (2023) - APNIC Representative
 
 #### APRICOT Fellows Skills Workshop
@@ -98,7 +98,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 #### Workshop Instruction & Technical Presentations
 - **APNIC 61/APRICOT 2026** (Jakarta, Indonesia) - Attended as Principal Consultant, IEISI
 - **APNIC 59/APRICOT 2025** (Petaling Jaya, Malaysia) - Lead instructor, 4-day Network Automation Workshop
-- **APNIC 58** (Wellington, New Zealand, August-September 2024) - Network Security Workshop co-instructor
+- **APNIC 58** (Wellington, New Zealand, August-September 2024) - Network Security Workshop co-instructor (program also ran a parallel Network Automation Workshop track)
 - **APNIC 57/APRICOT 2024** (Bangkok, Thailand) - Routing Security SIG presenter (RPKI), Network Automation workshop co-instructor
 - **APNIC 56** (Kyoto, Japan, September 2023) - Network Security Workshop co-instructor + IXP Tutorial co-instructor
 - **RPKI/ROV Tutorial - South Asia and Oceania** (Online, September 2023) - Co-instructor for major regional RPKI tutorial, 169 registered attendees
@@ -114,14 +114,14 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 *Supporting regional Internet operator communities*
 
 #### South Asian NOGs
-- **npNOG 10** (Nepal, 2024) - Program Committee + Internet security presenter + 4-day Network Automation Workshop instructor
-- **SANOG 40** (Sri Lanka, October 2023) - Program Committee + BGP/IPv6/RPKI Workshop instructor + "BCP 185 is a 'must do'" - RPKI security presentation
+- **npNOG 10** (Pokhara, Nepal, November 2024) - Program Committee + Internet security presenter + 4-day Network Automation Workshop instructor (program also ran a parallel Advanced Routing Workshop track)
+- **SANOG 40** (Sri Lanka, October 2023) - Program Committee + BGP/IPv6/RPKI Workshop instructor (program also ran a parallel NETSEC/DNSSEC Workshop track) + "BCP 185 is a 'must do'" - RPKI security presentation
 - **SANOG 39** (Bangladesh, 2023) - "Bangladesh and South Asia Internet landscape" analysis
 
 #### Pacific NOGs
 - **PacNOG 33** (Guam, June 2024) - "Career Development for Pacific Network Engineers" + 4-day Network Management and Monitoring Workshop instructor
-- **PacNOG 32** (Tonga, December 2023) - IPv6 Workshop instructor
-- **PacNOG 31** (Vanuatu, June 2023) - Basic Routing Workshop lead instructor covering routing fundamentals and Linux introduction
+- **PacNOG 32** (Tonga, December 2023) - IPv6 Workshop instructor (program also ran a separate Security Workshop track)
+- **PacNOG 31** (Vanuatu, June 2023) - Basic Routing Workshop lead instructor covering routing fundamentals and Linux introduction (program also ran a parallel Practical Cyber Security Workshop track)
 
 #### Regional NOGs
 - **NZNOG 2025** (New Zealand) - APNIC organizational update presentation
@@ -228,6 +228,8 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 **Remote & Programmatic Coverage:**
 - **South Asia and Oceania (all economies, both subregions in full)** - as APNIC Training Delivery Manager, South Asia and Oceania (October 2022 - June 2025)
 - **All 56 economies, all 4 APNIC subregions** - as APNIC Routing Security SIG Chair (2025-2027, current)
+
+**Full event-level detail:** See [training_record.md](training_record.md) for the complete APNIC Academy training program record - 64 events organised across South Asia and Oceania, October 2022 - June 2025.
 
 **APNIC-Era IXP Development Program Leadership (October 2022 - June 2025):**
 - **Fiji** - Led a full internet exchange refresh
