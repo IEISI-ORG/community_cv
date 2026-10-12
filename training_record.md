@@ -4,17 +4,17 @@
 
 During this tenure, APNIC delivered technical training across South Asia and Oceania under Terry's regional program leadership. Every event below falls within that organisational remit; events marked **(personal delivery)** were also personally trained by Terry. Co-trainer names are omitted here to keep this a record of program scope rather than individual colleague credit — see [README.md](README.md) for personally co-instructed engagements that are already individually credited there.
 
-Source: [APNIC Academy public events record](https://academy.apnic.net/en/events), queried 12 September 2026.
+Source: [APNIC Academy public events record](https://academy.apnic.net/en/events), queried 12 September 2026. The two Everything Open 2024 workshops in Gladstone were not returned by that query and are added from APNIC's [event wrap](https://blog.apnic.net/2024/05/01/event-wrap-everything-open-2024); their days follow the AusNOG announcement that the courses ran on the Monday and Friday around the 16-18 April conference.
 
 ---
 
 ## Summary
 
-- **64 events** organised across South Asia and Oceania, October 2022 – June 2025
-- **South Asia:** 42 events across 6 economies (Bangladesh, Bhutan, India, Nepal, Pakistan, Sri Lanka)
-- **Oceania:** 22 events across 8 economies (Australia, Fiji, Guam, New Zealand, Papua New Guinea, Samoa, Tonga, Vanuatu)
-- **17 events** personally delivered by Terry as trainer
-- **47 events** delivered by the APNIC training team under his program leadership
+- **65 events** organised across South Asia and Oceania, October 2022 – June 2025
+- **South Asia:** 41 events across 6 economies (Bangladesh, Bhutan, India, Nepal, Pakistan, Sri Lanka)
+- **Oceania:** 24 events across 8 economies (Australia, Fiji, Guam, New Zealand, Papua New Guinea, Samoa, Tonga, Vanuatu)
+- **19 events** personally delivered by Terry as trainer
+- **46 events** delivered by the APNIC training team under his program leadership
 
 ---
 
@@ -68,7 +68,7 @@ Source: [APNIC Academy public events record](https://academy.apnic.net/en/events
 - 22 Oct 2024 — *SANOG 42 - Network Automation Workshop* — Workshop, Face to Face
 - 14 Apr 2025 — *IXP/RPKI Workshop Pakistan* — Workshop, Face to Face
 
-### Sri Lanka (9)
+### Sri Lanka (8)
 
 - 18 Nov 2022 — *LKNOG - SDN Workshop* — Workshop, Face to Face
 - 21 Aug 2023 — *APAN56 - Security Training* — Workshop, Face to Face
@@ -78,13 +78,14 @@ Source: [APNIC Academy public events record](https://academy.apnic.net/en/events
 - 17 Oct 2023 — *SANOG40 BGP/IPv6/RPKI Workshop* — Workshop, Face to Face **(personal delivery)**
 - 13 May 2024 — *Asi@Connect – Network Security Workshop (Sri Lanka)* — Workshop, Face to Face
 - 13 Aug 2024 — *LKNOG 8 – Network Security Workshop* — Workshop, Face to Face
-- 22 Jul 2025 — *LkNOG 9 - Network Automation Workshop* — Workshop, Face to Face
 
 ## Oceania
 
-### Australia (3)
+### Australia (5)
 
 - 18 Jul 2023 — *RPKI/ROV Tutorial Australia (Canberra)* — Tutorial, Face to Face **(personal delivery)**
+- 15 Apr 2024 — *Everything Open 2024 - RPKI Routing Security Workshop (Gladstone)* — Workshop, Face to Face **(personal delivery)**
+- 19 Apr 2024 — *Everything Open 2024 - Introduction to IPv6 Workshop (Gladstone)* — Workshop, Face to Face **(personal delivery)**
 - 12 Jul 2024 — *Bsides Brisbane - OpenLI Tutorial* — Tutorial, Face to Face
 - 13 Jul 2024 — *Bsides Brisbane - Security Monitoring with Wazuh Tutorial* — Tutorial, Face to Face
 

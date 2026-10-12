@@ -160,7 +160,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **PITA 27 AGM** (Papua New Guinea, 2023) - "Internet Exchange Points" presentation on traffic efficiency
 
 #### Pacific Internet Governance
-- **Pacific IGF 2025** (Apia, Samoa) - IPv6 for Leaders workshop author and co-presenter with Dave Phelan (APNIC)
+- **Pacific IGF 2025** (Apia, Samoa, 1 July 2025) - IPv6 for Decision Makers workshop author and co-presenter with Dave Phelan (APNIC), attended with APNIC Foundation funding
 - **APrIGF 2023** (Brisbane, Australia) - Asia-Pacific Regional Internet Governance Forum participation
 - **NetThing 2023** (Brisbane, Australia) - Australian Internet Governance Forum (formerly NetThing) participation
 
@@ -222,7 +222,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **South Asia and Oceania (all economies, both subregions in full)** - as APNIC Training Delivery Manager, South Asia and Oceania (October 2022 - June 2025)
 - **All 56 economies, all 4 APNIC subregions** - as APNIC Routing Security SIG Chair (2025-2027, current)
 
-**Full event-level detail:** See [training_record.md](training_record.md) for the complete APNIC Academy training program record - 64 events organised across South Asia and Oceania, October 2022 - June 2025.
+**Full event-level detail:** See [training_record.md](training_record.md) for the complete APNIC Academy training program record - 65 events organised across South Asia and Oceania, October 2022 - June 2025.
 
 **APNIC-Era IXP Development Program Leadership (October 2022 - June 2025):**
 - **Fiji** - Led a full internet exchange refresh
@@ -234,7 +234,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **Regional Reach:** 22 economies delivered in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
 - **Geographic Coverage:** 22 economies in-person / 56 economies remote (SIG Chair role, 2025-present)
 - **Workshop Instruction:** 10+ multi-day technical workshops (2022-2025)
-- **Fellowship Support:** 5 committee appointments across 3+ years
+- **Fellowship Support:** 9 committee appointments across 5 years (2022-2026)
 - **Consecutive Program Facilitation:** APRICOT Fellows Skills Workshop, 3 years running (2024-2026)
 - **IXP Development Program:** Led APNIC's Pacific IXP program (2022-2025) - Fiji refresh, Vanuatu and Samoa builds, work continuing via PACIXP
 - **Training Participants:** 2,000+ network engineers reached through training and tutorials
