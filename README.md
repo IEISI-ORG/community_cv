@@ -85,7 +85,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **APNIC 49/APRICOT 2020 Organizing Committee** (Melbourne, Australia, 2020) - Network Committee, delivered conference network infrastructure (via IX Australia/Internet Association of Australia)
 
 #### Special Interest Group (SIG) Leadership
-- **Routing Security SIG Chair** (APNIC 60-64, 2025-2027) - Elected chair, leading routing security initiatives across Asia-Pacific
+- **Routing Security SIG Chair** (APNIC 60-64, 2025-2027) - Elected chair at APNIC 60 (Da Nang, Vietnam, September 2025), leading routing security initiatives across Asia-Pacific
 - **Joint SIGs Chair** (APNIC, current) - Speaks for the SIG Chairs on cross-SIG matters; reported the APNIC 62 Joint SIGs session on the SIG Guidelines Review to the community (September 2026)
 - **SIG Guidelines Review Working Group** (APNIC, 2026) - Member alongside Gaurav Kansal (Chair), Joy Chan (Co-Chair), and Om Prakash Sharma, reviewing APNIC's 2016 SIG Guidelines; the v005 draft went to the APNIC 62 Joint SIGs session (Mumbai, September 2026) without a consensus call; stepped down in October 2026 so new members could carry the review forward
 - **Routing Security SIG Co-Chair Nominee** (APNIC 52, 2021) - Nominated for leadership position based on recognized expertise
@@ -98,6 +98,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 #### Workshop Instruction & Technical Presentations
 - **APNIC 61/APRICOT 2026** (Jakarta, Indonesia) - Attended as Principal Consultant, IEISI
+- **APNIC 60** (Da Nang, Vietnam, September 2025) - Attended as Principal Consultant, IEISI; elected Chair of the Routing Security SIG
 - **APNIC 59/APRICOT 2025** (Petaling Jaya, Malaysia) - Lead instructor, 4-day Network Automation Workshop
 - **APNIC 58** (Wellington, New Zealand, August-September 2024) - Network Security Workshop co-instructor (program also ran a parallel Network Automation Workshop track)
 - **APNIC 57/APRICOT 2024** (Bangkok, Thailand) - Routing Security SIG presenter (RPKI), Network Automation workshop co-instructor
