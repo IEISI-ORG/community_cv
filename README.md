@@ -148,19 +148,9 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 #### Australian Internet Governance Forum (auIGF / NetThing)
 
-* **auIGF Steering Committee Member** (Current) – Active committee member 
-  of Australia's national Internet Governance Forum, formally recognised by 
-  the UN IGF Secretariat as Australia's national IGF initiative
-
-* **NetThing 2023 Steering Committee Member** (Brisbane, 28 August 2023) – 
-  Served on the organising committee for the 5th annual NetThing Forum, 
-  co-located with APrIGF, PacIGF, and yIGF at Brisbane Convention and 
-  Exhibition Centre. Event attracted 786 registrations from 64 countries.
-
-* **NetThing 2023 Speaker** – "Australia's Internet Resilience Extends 
-  Beyond Its Borders" – Panel presentation with Robbie Mitchell (Internet 
-  Society), moderated by George Pongas (GoDaddy). Explored Australia's role 
-  in regional internet resilience and capacity development across Asia-Pacific.
+- **auIGF Steering Committee Member** (Current) - Active committee member of Australia's national Internet Governance Forum, formally recognised by the UN IGF Secretariat as Australia's national IGF initiative
+- **NetThing 2023 Steering Committee Member** (Brisbane, 28 August 2023) - Served on the organising committee for the 5th annual NetThing Forum, co-located with APrIGF, PacIGF, and yIGF at Brisbane Convention and Exhibition Centre. Event attracted 786 registrations from 64 countries.
+- **NetThing 2023 Speaker** - "Australia's Internet Resilience Extends Beyond Its Borders" - Panel presentation with Robbie Mitchell (Internet Society), moderated by George Pongas (GoDaddy). Explored Australia's role in regional internet resilience and capacity development across Asia-Pacific.
 
 #### Pacific Islands Telecommunications Association (PITA)
 - **PITA Industry Week & EmpowerTech Pacific** (Nadi, Fiji, October 2026) - Full week on site, funded by an APNIC Foundation travel award; filmed interviews for the Foundation's EmpowerTech videos; wrote a one-page concept note for PITA on the RPKI, ROV and ASPA questions a CEO should put to the network team, framed as a governance, risk and compliance item for board cybersecurity reporting; worked with Pacific operators on RIPE Atlas probe coverage for the Pacific Peering project

@@ -49,7 +49,7 @@ Source: [APNIC Academy public events record](https://academy.apnic.net/en/events
 ### Nepal (9)
 
 - 18 Jun 2023 — *npNOG 8 - Network Security Workshop* — Workshop, Face to Face
-- 18 Jun 2023 — *npNOG 8  - BGP & IPv6 Workshop* — Workshop, Face to Face
+- 18 Jun 2023 — *npNOG 8 - BGP & IPv6 Workshop* — Workshop, Face to Face
 - 02 Oct 2023 — *NREN - IPv6 Deployment Workshop* — Workshop, Hybrid **(personal delivery)**
 - 21 Jul 2024 — *NPIX - Network Security Workshop* — Workshop, Face to Face
 - 21 Jul 2024 — *NPIX - Segment Routing Workshop* — Workshop, Face to Face
@@ -86,7 +86,7 @@ Source: [APNIC Academy public events record](https://academy.apnic.net/en/events
 
 - 18 Jul 2023 — *RPKI/ROV Tutorial Australia (Canberra)* — Tutorial, Face to Face **(personal delivery)**
 - 12 Jul 2024 — *Bsides Brisbane - OpenLI Tutorial* — Tutorial, Face to Face
-- 13 Jul 2024 — *Bsides Brisbane -  Security Monitoring with Wazuh Tutorial* — Tutorial, Face to Face
+- 13 Jul 2024 — *Bsides Brisbane - Security Monitoring with Wazuh Tutorial* — Tutorial, Face to Face
 
 ### Fiji (2)
 
@@ -123,7 +123,7 @@ Source: [APNIC Academy public events record](https://academy.apnic.net/en/events
 
 ### Vanuatu (4)
 
-- 26 Jun 2023 — *PacNOG 31  -  Practical Cyber Security Workshop* — Workshop, Face to Face
+- 26 Jun 2023 — *PacNOG 31 - Practical Cyber Security Workshop* — Workshop, Face to Face
 - 26 Jun 2023 — *PacNOG 31 - Basic Routing Workshop* — Workshop, Face to Face **(personal delivery)**
 - 14 Apr 2024 — *IPv6 Deployment (Vanuatu)* — Workshop, Hybrid
 - 17 Apr 2024 — *DNS and DNSSEC (Vanuatu)* — Workshop, Hybrid
