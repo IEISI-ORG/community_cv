@@ -19,7 +19,7 @@
 
 - **Principal Consultant** - [IEISI.ORG](https://ieisi.org/) (The Internet Engineering & Infrastructure Strategic Initiative)
 - **Routing Security SIG Chair** - APNIC (2025-2027)
-- **SIG Guidelines Review Working Group** - APNIC (2026 onwards)
+- **Joint SIGs Chair** - APNIC
 - **Secretary** - PACIXP (Sep 2024 onwards)
 - **PeeringDB** - Product Committee (Oct 2024 onwards)
 - **auIGF Multistakeholder Steering Committee** - Member
@@ -86,7 +86,8 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 #### Special Interest Group (SIG) Leadership
 - **Routing Security SIG Chair** (APNIC 60-64, 2025-2027) - Elected chair, leading routing security initiatives across Asia-Pacific
-- **SIG Guidelines Review Working Group** (APNIC, 2026) - Appointed alongside Gaurav Kansal (Chair), Joy Chan, and Om Prakash Sharma to review APNIC's 2016 SIG Guidelines; consensus call draft presented at APNIC 62
+- **Joint SIGs Chair** (APNIC, current) - Speaks for the SIG Chairs on cross-SIG matters; reported the APNIC 62 Joint SIGs session on the SIG Guidelines Review to the community (September 2026)
+- **SIG Guidelines Review Working Group** (APNIC, 2026) - Member alongside Gaurav Kansal (Chair), Joy Chan (Co-Chair), and Om Prakash Sharma, reviewing APNIC's 2016 SIG Guidelines; the v005 draft went to the APNIC 62 Joint SIGs session (Mumbai, September 2026) without a consensus call; stepped down in October 2026 so new members could carry the review forward
 - **Routing Security SIG Co-Chair Nominee** (APNIC 52, 2021) - Nominated for leadership position based on recognized expertise
 
 ---
@@ -161,6 +162,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   in regional internet resilience and capacity development across Asia-Pacific.
 
 #### Pacific Islands Telecommunications Association (PITA)
+- **PITA Industry Week & EmpowerTech Pacific** (Nadi, Fiji, October 2026) - Full week on site, funded by an APNIC Foundation travel award; filmed interviews for the Foundation's EmpowerTech videos; wrote a one-page concept note for PITA on the RPKI, ROV and ASPA questions a CEO should put to the network team, framed as a governance, risk and compliance item for board cybersecurity reporting; worked with Pacific operators on RIPE Atlas probe coverage for the Pacific Peering project
 - **PITA 30 AGM** (Rarotonga, Cook Islands, April 2026) - Presented on routing security to Pacific telecom executives as APNIC Routing Security SIG Chair; discussion set PITA 31 as an industry checkpoint for full ROA/ROV deployment across the Pacific
 - **PITA 29 AGM** (Solomon Islands, 2025) - Peering Workshop facilitator
 - **PITA 28 AGM** (Vanuatu, 2024) - Technical participation and APNIC representation
@@ -215,9 +217,9 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 ### Regional Coverage
 
-**In-Person Delivery — 21 Economies Across All 4 APNIC Subregions:**
+**In-Person Delivery — 22 Economies Across All 4 APNIC Subregions:**
 
-**Oceania (9):** Australia, New Zealand, Papua New Guinea, Solomon Islands, Vanuatu, Guam, Cook Islands, Tonga, Samoa
+**Oceania (10):** Australia, New Zealand, Fiji, Papua New Guinea, Solomon Islands, Vanuatu, Guam, Cook Islands, Tonga, Samoa
 
 **South Asia (5):** Bangladesh, India, Nepal, Pakistan, Sri Lanka
 
@@ -238,8 +240,8 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **Ongoing:** Continues via PACIXP (Secretary, Sep 2024 onwards) - the Pacific's first multi-national regional exchange
 
 ### Capacity Building Metrics
-- **Regional Reach:** 21 economies delivered in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
-- **Geographic Coverage:** 21 economies in-person / 56 economies remote (SIG Chair role, 2025-present)
+- **Regional Reach:** 22 economies delivered in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
+- **Geographic Coverage:** 22 economies in-person / 56 economies remote (SIG Chair role, 2025-present)
 - **Workshop Instruction:** 10+ multi-day technical workshops (2022-2025)
 - **Fellowship Support:** 5 committee appointments across 3+ years
 - **Consecutive Program Facilitation:** APRICOT Fellows Skills Workshop, 3 years running (2024-2026)
