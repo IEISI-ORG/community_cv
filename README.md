@@ -20,7 +20,7 @@
 - **Principal Consultant** - [IEISI.ORG](https://ieisi.org/) (The Internet Engineering & Infrastructure Strategic Initiative)
 - **Routing Security SIG Chair** - APNIC (2025-2027)
 - **Joint SIGs Chair** - APNIC
-- **Secretary** - PACIXP (Sep 2024 onwards)
+- **Secretary** - PACIXP (committee member since Aug 2024; Secretary since Mar 2025)
 - **PeeringDB** - Product Committee (Oct 2024 onwards)
 - **auIGF Multistakeholder Steering Committee** - Member
 - **QLD Chapter Director** - [Digital Directors ANZ](https://digitaldirectors.com.au/)
@@ -54,6 +54,9 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **SANOG 42 Fellowship Committee** (Islamabad, Pakistan, October 2024) - APNIC Representative
 - **SANOG 41 Fellowship Committee** (Mumbai, India, April 2024) - APNIC Representative
 
+#### Nepal Network Operators Group (npNOG)
+- **npNOG 10 Fellowship Committee** (Pokhara, Nepal, November 2024) - APNIC Representative
+
 #### Bangladesh Network Operators Group (bdNOG)
 - **bdNOG 19 Fellowship Committee** (Dhaka, Bangladesh, May 2025) - APNIC Representative
 - **bdNOG 18 Fellowship Committee** (Cox's Bazar, Bangladesh, July 2024) - APNIC Representative
@@ -72,8 +75,10 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **APNIC 62 Fellowship Program Mentor** (Mumbai, India, September 2026) - Mentored fellowship recipients
 - **APNIC 61/APRICOT 2026 Program Committee** (Jakarta, Indonesia) - Evaluated submissions for the conference program
 - **APNIC 61/APRICOT 2026 Fellowship Committee** (Jakarta, Indonesia) - Selected fellowship recipients
+- **APNIC 59/APRICOT 2025 Fellowship Committee** (Petaling Jaya, Malaysia, 2025) - Selected fellowship recipients
 - **APNIC 58 Program Committee Co-Chair** (Wellington, New Zealand, 2024) - Led program committee and conference organization
 - **APNIC 58 Fellowship Committee** (Wellington, New Zealand, 2024) - Selected and mentored fellowship recipients
+- **APNIC 57/APRICOT 2024 Fellowship Committee** (Bangkok, Thailand, 2024) - Selected fellowship recipients
 - **APNIC 56 Program Committee** (Kyoto, Japan, 2023) - Evaluated submissions for the conference program
 - **APNIC 55/APRICOT 2023 Program Committee** (Manila, Philippines, 2023) - Evaluated submissions for the conference program
 - **APNIC 55/APRICOT 2023 Fellowship Committee** (Manila, Philippines, 2023) - Selected fellowship recipients
@@ -82,6 +87,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **APNIC 53/APRICOT 2022 Program Committee** (Online, 2022) - Evaluated submissions for the conference program
 - **APNIC 52 Technical Session Moderator** (Online, 2021) - Facilitated DNS security presentations by Geoff Huston and Edward Lewis
 - **APNIC 51/APRICOT 2021 Program Committee** (Online, 2021) - Evaluated submissions and organized virtual conference program (as Consultant, IO Networks)
+- **APNIC 49/APRICOT 2020 Fellowship Committee** (Melbourne, Australia, 2020) - Selected fellowship recipients (as IX Australia)
 - **APNIC 49/APRICOT 2020 Organizing Committee** (Melbourne, Australia, 2020) - Network Committee, delivered conference network infrastructure (via IX Australia/Internet Association of Australia)
 
 #### Special Interest Group (SIG) Leadership
@@ -116,14 +122,16 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 *Supporting regional Internet operator communities*
 
 #### South Asian NOGs
-- **npNOG 10** (Pokhara, Nepal, November 2024) - Program Committee + Internet security presenter + 4-day Network Automation Workshop instructor (program also ran a parallel Advanced Routing Workshop track)
-- **SANOG 40** (Sri Lanka, October 2023) - Program Committee + BGP/IPv6/RPKI Workshop instructor (program also ran a parallel NETSEC/DNSSEC Workshop track) + "BCP 185 is a 'must do'" - RPKI security presentation
+- **npNOG 10** (Pokhara, Nepal, November 2024) - Fellowship Committee + Internet security presenter + 4-day Network Automation Workshop instructor (program also ran a parallel Advanced Routing Workshop track)
+- **SANOG 40** (Sri Lanka, October 2023) - BGP/IPv6/RPKI Workshop instructor (program also ran a parallel NETSEC/DNSSEC Workshop track) + "BCP 185 is a 'must do'" - RPKI security presentation
 - **SANOG 39** (Bangladesh, 2023) - "Bangladesh and South Asia Internet landscape" analysis
+- **LKNOG 6** (Colombo, Sri Lanka, November 2022) - Segment Routing & SDN Workshop co-instructor with Warren Finch (APNIC) + "IPv6 Implementation Stories and Where to Start" presentation; first in-country delivery as APNIC Training Delivery Manager
 
 #### Pacific NOGs
 - **PacNOG 33** (Guam, June 2024) - "Career Development for Pacific Network Engineers" + 4-day Network Management and Monitoring Workshop instructor
 - **PacNOG 32** (Tonga, December 2023) - IPv6 Workshop instructor (program also ran a separate Security Workshop track)
 - **PacNOG 31** (Vanuatu, June 2023) - Basic Routing Workshop lead instructor covering routing fundamentals and Linux introduction (program also ran a parallel Practical Cyber Security Workshop track)
+- **PacNOG 29** (Online, November-December 2021) - "Securing Internet Routing with RPKI" tutorial co-instructor with Warren Finch (APNIC), as APNIC Community Trainer, class size 40
 
 #### Regional NOGs
 - **NZNOG 2025** (New Zealand) - APNIC organizational update presentation
@@ -139,10 +147,9 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **MyIX BGP Security & Attack Countermeasures Workshop 2024** (Malaysia, September 2024) - Lead trainer, 36 registered attendees, covering BGP security, route filtering, IRR and RPKI
 - **RPKI Routing Security Workshop** (Gladstone, Australia, April 2024) - Lead instructor covering RPKI, ROA and ROV, emphasis on open source systems
 - **Everything Open 2024** (Gladstone, Australia) - IPv6 workshop instructor + RPKI security co-presenter
-- **RPKI/ROV Tutorial and ROA Sessions** (Online, 2022-2023) - Organized and co-instructed regional RPKI tutorial series:
-  - Pacific region (November 2022) with Epeli Tagi
-  - Nepal (December 2022)
-  - Nepal (January 2023)
+- **RPKI/ROV Tutorial and ROA Sessions** (Online, October 2022 - March 2023) - Organized and co-instructed regional RPKI tutorial series as APNIC Training Delivery Manager:
+  - Fiji (October 2022), Pacific (November 2022) and Oceania (December 2022) sessions with Epeli Tagi
+  - Nepal: five sessions (October 2022 - March 2023), including January 2023 with Chimi Dorji
 - **ISOC IXP Workshop Pakistan** (Online, August 2023) - Co-instructor, 61 registered attendees, intermediate-level IXP configuration and operation
 - **119th IETF Brisbane** (2024) - Standards development participation representing APNIC interests
 
@@ -160,7 +167,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **PITA 27 AGM** (Papua New Guinea, 2023) - "Internet Exchange Points" presentation on traffic efficiency
 
 #### Pacific Internet Governance
-- **Pacific IGF 2025** (Apia, Samoa, 1 July 2025) - IPv6 for Decision Makers workshop author and co-presenter with Dave Phelan (APNIC), attended with APNIC Foundation funding
+- **Pacific IGF 2025** (Apia, Samoa, 2 July 2025) - IPv6 for Decision Makers workshop author and co-presenter with Dave Phelan (APNIC), attended with APNIC Foundation funding
 - **APrIGF 2023** (Brisbane, Australia) - Asia-Pacific Regional Internet Governance Forum participation
 - **NetThing 2023** (Brisbane, Australia) - Australian Internet Governance Forum (formerly NetThing) participation
 
@@ -171,11 +178,11 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   - PKNOG IPv6 and Routing Security Workshop (Karachi, January 9-11)
   - PTA Routing Security Workshop (Islamabad, January 16)
   - PTA IPv6 Security Workshop (Islamabad, January 15)
-- **Pakistan IPv6 Deployment Mission** (2024) - APNIC Academy coordinated training initiative
+- **Pakistan IPv6 Deployment Mission** (January 2024) - PKNOG IPv6 & Routing Security Workshop (Karachi, with Dave Phelan) and PTA IPv6 Security and Routing Security Workshops (Islamabad)
 - **APT-IPv6 Deployment Workshop Papua New Guinea** (July-August 2023) - Co-instructor with Dave Phelan (APNIC), 23 registered attendees, comprehensive IPv6 deployment training
-- **Australia RPKI Roadshow** (July 2023) - Multi-city RPKI/ROV tutorial series targeting Australian network operators:
-  - Canberra (July 18, 2023)
-  - Sydney, Adelaide, Melbourne
+- **Australia RPKI Roadshow** (April-July 2023) - Multi-city RPKI/ROV tutorial series targeting Australian network operators:
+  - Adelaide (April 19, 2023), Melbourne (April 20, 2023)
+  - Canberra (July 18, 2023), Sydney (July 20, 2023)
 
 ---
 
@@ -222,22 +229,22 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **South Asia and Oceania (all economies, both subregions in full)** - as APNIC Training Delivery Manager, South Asia and Oceania (October 2022 - June 2025)
 - **All 56 economies, all 4 APNIC subregions** - as APNIC Routing Security SIG Chair (2025-2027, current)
 
-**Full event-level detail:** See [training_record.md](training_record.md) for the complete APNIC Academy training program record - 65 events organised across South Asia and Oceania, October 2022 - June 2025.
+**Full event-level detail:** See [training_record.md](training_record.md) for the complete APNIC Academy training program record - 109 events organised across South Asia and Oceania, October 2022 - June 2025 (30 personally delivered).
 
 **APNIC-Era IXP Development Program Leadership (October 2022 - June 2025):**
-- **Fiji** - Led a full internet exchange refresh
-- **Vanuatu** - Led multi-year exchange development
-- **Samoa** - Exchange completed 2026, delivered by the APNIC team following program handover
-- **Ongoing:** Continues via PACIXP (Secretary, Sep 2024 onwards) - the Pacific's first multi-national regional exchange
+- **Fiji** - Led a full internet exchange refresh (2024)
+- **Vanuatu** - Organised the exchange upgrade program; hardware and IXP Manager deployed November 2025 by the APNIC, ISOC and OGCIO team following handover
+- **Samoa** - Exchange upgrade completed 2026, delivered by the APNIC team following program handover
+- **Ongoing:** Continues via PACIXP (committee member since Aug 2024, Secretary since Mar 2025) - the Pacific's first multi-national regional exchange
 
 ### Capacity Building Metrics
 - **Regional Reach:** 22 economies delivered in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
 - **Geographic Coverage:** 22 economies in-person / 56 economies remote (SIG Chair role, 2025-present)
 - **Workshop Instruction:** 10+ multi-day technical workshops (2022-2025)
-- **Fellowship Support:** 9 committee appointments across 5 years (2022-2026)
+- **Fellowship Support:** 13 fellowship committee appointments (2020-2026)
 - **Consecutive Program Facilitation:** APRICOT Fellows Skills Workshop, 3 years running (2024-2026)
-- **IXP Development Program:** Led APNIC's Pacific IXP program (2022-2025) - Fiji refresh, Vanuatu and Samoa builds, work continuing via PACIXP
-- **Training Participants:** 2,000+ network engineers reached through training and tutorials
+- **IXP Development Program:** Led APNIC's Pacific IXP program (2022-2025) - Fiji refresh, Vanuatu and Samoa upgrades, work continuing via PACIXP
+- **Training Participants:** 2,000+ network engineers trained through workshops and tutorials
 - **Online Tutorials:** 400+ peak attendance in regional RPKI sessions
 
 ### Professional Development Focus Areas
