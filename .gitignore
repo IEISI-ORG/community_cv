@@ -1,2 +1,5 @@
 # Claude Code local session state
 .claude/
+
+# Local evidence store (certificates, emails, page captures) - never commit
+/data/
