@@ -115,7 +115,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   - Packet Analysis Tutorial co-instructor
   - Technical presentations and training delivery
 - **APNIC 54** (Singapore, 2022) - Network Management and Monitoring workshop tutor + Technical presentations
-- **APNIC 53/APRICOT 2022** (Online) - Major contributions laying foundation for future work: APrIGF Natural Disasters Panel, Peering Toolbox, ccTLD Data Analysis, RPKI Research
+- **APNIC 53/APRICOT 2022** (Online) - Moderated "Building IXPs in the Pacific" panel (Fiji IX, Vanuatu OGCIO, MARIIX, JPIX, University of Hawaii); Peering Forum talk "Using ccTLD data to study the impact of local IXPs"; Routing Security SIG talk "Status of RPKI in Australia and New Zealand"
 - **APNIC 51/APRICOT 2021** (Online) - Lightning talk presentation
 
 ### Network Operators Group (NOG) Engagement
