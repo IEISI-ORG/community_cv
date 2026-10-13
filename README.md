@@ -103,20 +103,23 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 ### Major Conference Training Delivery
 
 #### Workshop Instruction & Technical Presentations
-- **APNIC 61/APRICOT 2026** (Jakarta, Indonesia) - Attended as Principal Consultant, IEISI
+- **APNIC 62** (Mumbai, India, September 2026) - Routing Security SIG Chair; Joint SIGs session on the SIG Guidelines Review; APNIC Member Meeting 2
+- **APNIC 61/APRICOT 2026** (Jakarta, Indonesia) - Speaker as Principal Consultant, IEISI, and Routing Security SIG Chair: Routing Security SIG, Joint SIGs session (SIG Guidelines Review), APNIC IPv6 Deployment, APNIC AGM sessions, APRICOT Fellows Skills Workshop
 - **APNIC 60** (Da Nang, Vietnam, September 2025) - Attended as Principal Consultant, IEISI; elected Chair of the Routing Security SIG
-- **APNIC 59/APRICOT 2025** (Petaling Jaya, Malaysia) - Lead instructor, 4-day Network Automation Workshop
-- **APNIC 58** (Wellington, New Zealand, August-September 2024) - Network Security Workshop co-instructor (program also ran a parallel Network Automation Workshop track)
+- **APNIC 59/APRICOT 2025** (Petaling Jaya, Malaysia) - Lead instructor, 4-day Network Automation Workshop + APNIC Products & Services session
+- **APNIC 58** (Wellington, New Zealand, August-September 2024) - Network Security Workshop co-instructor (program also ran a parallel Network Automation Workshop track); Technical Session 2 moderator; co-tutor of the Shadowserver "Cyber Civil Defense" tutorial with Barry Greene and 'Etuate Cocker; Newcomers Session speaker; "APNIC Academy Training" showcase and APNIC Academy product demos
 - **APNIC 57/APRICOT 2024** (Bangkok, Thailand) - Routing Security SIG presenter (RPKI), Network Automation workshop co-instructor
-- **APNIC 56** (Kyoto, Japan, September 2023) - Network Security Workshop co-instructor + IXP Tutorial co-instructor
+- **APNIC 56** (Kyoto, Japan, September 2023) - Network Security Workshop co-instructor + IXP Tutorial co-instructor + RPKI Deployathon + Routing Security SIG
 - **RPKI/ROV Tutorial - South Asia and Oceania** (Online, September 2023) - Co-instructor for major regional RPKI tutorial, 169 registered attendees
 - **APNIC 55/APRICOT 2023** (Manila, Philippines, February-March 2023) - Multiple tutorials and technical content:
   - Network Management and Monitoring Workshop co-instructor
   - Packet Analysis Tutorial co-instructor
-  - Technical presentations and training delivery
-- **APNIC 54** (Singapore, 2022) - Network Management and Monitoring workshop tutor + Technical presentations
+  - "RPKI Tutorial - ROV Hackathon" (Parts 1-2) and APNIC Hackathon
+  - Segment Routing: SRv6 session
+- **APNIC 54** (Singapore, 2022) - Network Management and Monitoring workshop tutor + RPKI Deployathon + Routing Security SIG + Technical Session 1
 - **APNIC 53/APRICOT 2022** (Online) - Moderated "Building IXPs in the Pacific" panel (Fiji IX, Vanuatu OGCIO, MARIIX, JPIX, University of Hawaii); Peering Forum talk "Using ccTLD data to study the impact of local IXPs"; Routing Security SIG talk "Status of RPKI in Australia and New Zealand"
 - **APNIC 51/APRICOT 2021** (Online) - Lightning talk presentation
+- **APNIC 49/APRICOT 2020** (Melbourne, Australia) - Speaker in the Peering & Interconnection: Regional session and Lightning Talks (as IX Australia)
 
 ### Network Operators Group (NOG) Engagement
 *Supporting regional Internet operator communities*
@@ -168,7 +171,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 #### Pacific Internet Governance
 - **Pacific IGF 2025** (Apia, Samoa, 2 July 2025) - IPv6 for Decision Makers workshop author and co-presenter with Dave Phelan (APNIC), attended with APNIC Foundation funding
-- **APrIGF 2023** (Brisbane, Australia) - Asia-Pacific Regional Internet Governance Forum participation
+- **APrIGF 2023** (Brisbane, August 2023) - Participant; NetThing 2023, co-located on Day 0, as Steering Committee member and panelist
 - **NetThing 2023** (Brisbane, Australia) - Australian Internet Governance Forum (formerly NetThing) participation
 
 #### Regional Training Missions
