@@ -151,14 +151,13 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   - Network Management and Monitoring (NMM) Tutorial co-instructor with Dave Phelan (APNIC)
   - RPKI Tutorial co-instructor
   - IPv6 Tutorial co-instructor
-  - APNIC updates and technical content
 
 ### Specialized Technical Events & Training Missions
 
 #### Industry Conference Participation
 - **MyIX BGP Security & Attack Countermeasures Workshop 2024** (Malaysia, September 2024) - Lead trainer, 36 registered attendees, covering BGP security, route filtering, IRR and RPKI
 - **RPKI Routing Security Workshop** (Gladstone, Australia, April 2024) - Lead instructor covering RPKI, ROA and ROV, emphasis on open source systems
-- **Everything Open 2024** (Gladstone, Australia) - IPv6 workshop instructor + RPKI security co-presenter
+- **Everything Open 2024** (Gladstone, Australia) - IPv6 tutorial instructor (with Craig Askings) + RPKI Routing Security Workshop (with Rob Thomas)
 - **RPKI/ROV Tutorial and ROA Sessions** (Online, October 2022 - March 2023) - Organized and co-instructed regional RPKI tutorial series as APNIC Training Delivery Manager:
   - Fiji (October 2022), Pacific (November 2022) and Oceania (December 2022) sessions with Epeli Tagi
   - Nepal: five sessions (October 2022 - March 2023), including January 2023 with Chimi Dorji
@@ -224,7 +223,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   - ["Status of RPKI in Australia and New Zealand"](https://blog.apnic.net/2022/10/14/status-of-rpki-in-australia-and-new-zealand/) (October 2022)
   - ["Using ccTLD data to study the impact of local IXPs"](https://blog.apnic.net/2022/05/10/using-cctld-data-to-study-the-impact-of-local-ixps/) (May 2022)
 - **Internet Society Pulse** - Featured author on IPv6 adoption and behavioral science: "Why IPv6 Adoption is Stalled: The Behavioral Science Behind Internet Infrastructure Change"
-- **Conference Presentations** - 15+ technical presentations on RPKI, IPv6, network automation, and regional development
+- **Conference Presentations** - 30+ talks and panels (2020-2026): routing security and RPKI (10), capacity building and APNIC Academy (6), APNIC and SIG governance (5), IXPs and peering (4), regional Internet development (4), IPv6 and Segment Routing (3), DNS (1); plus 6 sessions moderated or chaired
 - **APNIC Academy Webinars** - Technical webinar series including "How to set up Router/OS 7 and ROV" (November 2022) on Mikrotik RPKI implementation
 - **Open Source Training Materials** - Curriculum and educational resources at [github.com/IEISI-ORG](https://github.com/IEISI-ORG/)
 
@@ -259,7 +258,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 ### Capacity Building Metrics
 - **Regional Reach:** 22 economies engaged in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
 - **Geographic Coverage:** 22 economies in-person / 56 economies remote (SIG Chair role, 2025-present)
-- **Workshop Instruction:** 10+ multi-day technical workshops (2022-2025)
+- **Workshop Instruction:** 23 multi-day technical workshops (2022-2025), 16 of them four to six days: routing and network security (7), IPv6 deployment (5), network management and monitoring (4), network automation (3), and one each on routing fundamentals, IXPs, DNS/DNSSEC, and Segment Routing/SDN
 - **Fellowship Support:** 14 fellowship committee appointments (2020-2027)
 - **Consecutive Program Facilitation:** APRICOT Fellows Skills Workshop, 3 years running (2024-2026)
 - **IXP Development Program:** Led APNIC's Pacific IXP program (2022-2025) - Fiji refresh, Vanuatu and Samoa upgrades, work continuing via PACIXP
