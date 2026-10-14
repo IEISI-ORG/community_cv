@@ -234,7 +234,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 ### Regional Coverage
 
-**In-Person Delivery — 22 Economies Across All 4 APNIC Subregions:**
+**In-Person Engagement — 22 Economies Across All 4 APNIC Subregions:**
 
 **Oceania (10):** Australia, New Zealand, Fiji, Papua New Guinea, Solomon Islands, Vanuatu, Guam, Cook Islands, Tonga, Samoa
 
@@ -257,7 +257,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **Ongoing:** Continues via PACIXP (committee member since Aug 2024, Secretary since Mar 2025) - the Pacific's first multi-national regional exchange
 
 ### Capacity Building Metrics
-- **Regional Reach:** 22 economies delivered in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
+- **Regional Reach:** 22 economies engaged in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
 - **Geographic Coverage:** 22 economies in-person / 56 economies remote (SIG Chair role, 2025-present)
 - **Workshop Instruction:** 10+ multi-day technical workshops (2022-2025)
 - **Fellowship Support:** 14 fellowship committee appointments (2020-2027)
