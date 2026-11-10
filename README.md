@@ -71,7 +71,8 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 ### Conference Program & Organizing Committees
 
 #### APNIC/APRICOT Conference Leadership
-- **APRICOT 2027 Fellowship Committee** (accepted September 2026) - Selecting fellowship recipients
+- **APNIC 63/APRICOT 2027 Program Committee** (Hong Kong, February-March 2027) - Evaluating submissions for the conference program
+- **APNIC 63/APRICOT 2027 Fellowship Committee** (Hong Kong, February-March 2027) - Selecting fellowship recipients; application reviews completed October 2026
 - **APNIC 62 Program Committee** (Mumbai, India, September 2026) - Evaluated submissions for the conference program
 - **APNIC 62 Fellowship Program Mentor** (Mumbai, India, September 2026) - Mentored fellowship recipients
 - **APNIC 61/APRICOT 2026 Program Committee** (Jakarta, Indonesia) - Evaluated submissions for the conference program
