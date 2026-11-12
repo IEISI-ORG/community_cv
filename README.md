@@ -109,6 +109,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 #### Infrastructure Policy
 - **Malaysian Communications and Multimedia Commission (MCMC) IPv6 Adoption Task Force** (Hybrid, 26 February 2026) - Keynote "Case Study in Achieving 80%+ Native IPv6 SOHO Network" at Task Force Meeting No. 4, invited by MCMC to give implementation experience to the industry task force preparing Malaysia's IPv6-only Adoption Action Plan
 - **Engineers Australia / Infrastructure Australia Telecommunications and Digital Infrastructure Roundtable** (Online, August-September 2020) - Engineers Australia ITEE College delegate on the expert panel that developed policy recommendations for Infrastructure Australia; worked on communications resilience for bushfires in rural and remote areas, and on building telecommunications into other infrastructure at the design stage; the panel's input fed into the 2021 Australian Infrastructure Plan
+- **Engineers Australia ITEE College Board Committees** (2019-2021) - Member of the Software Engineering Committee (accepted November 2019) and the Telecommunication Working Group (2021); reviewed the College's draft software engineering discipline definition against SWEBOK v3 (2020); the College's nomination route to the 2020 Infrastructure Australia roundtable
 
 ---
 
@@ -218,6 +219,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **RPKI Adoption Study** - "Status of RPKI in Australia and New Zealand" (Internet Society/MANRS, June 2022), a routing test of Australian and New Zealand government and critical-infrastructure websites; launched on the MANRS blog as "Routing Security a Work in Progress in Australia, New Zealand" (28 June 2022)
 - **Internet Society report** - "Measuring the Impact of Local IXPs" (Internet Society, 2021)
 - **APNIC Podcast Feature** - "Do government networks have a role to play in deploying RPKI?" (2022)
+- **APNIC Blog Profile** - ["Your elected leaders: Terry Sweetser, Routing Security SIG Chair"](https://blog.apnic.net/2026/06/22/your-elected-leaders-terry-sweetser-routing-security-sig-chair/) (June 2026) - Interview-based profile in APNIC's elected leaders series
 - **BCP 185 Implementation Advocacy** - Promoting data integrity standards across South Asian networks
 
 ### Technical Writing & Knowledge Sharing
