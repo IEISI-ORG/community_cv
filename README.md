@@ -106,6 +106,9 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **SIG Guidelines Review Working Group** (APNIC, 2026) - Member alongside Gaurav Kansal (Chair), Joy Chan (Co-Chair), and Om Prakash Sharma, reviewing APNIC's 2016 SIG Guidelines; the v005 draft went to the APNIC 62 Joint SIGs session (Mumbai, September 2026) without a consensus call; stepped down in October 2026 so new members could carry the review forward
 - **Routing Security SIG Co-Chair Nominee** (APNIC 52, 2021) - Nominated for leadership position based on recognized expertise
 
+#### Infrastructure Policy
+- **Engineers Australia / Infrastructure Australia Telecommunications and Digital Infrastructure Roundtable** (Online, August-September 2020) - Engineers Australia ITEE College delegate on the expert panel that developed policy recommendations for Infrastructure Australia; worked on communications resilience for bushfires in rural and remote areas, and on building telecommunications into other infrastructure at the design stage; the panel's input fed into the 2021 Australian Infrastructure Plan
+
 ---
 
 ## Regional Training & Technical Leadership
