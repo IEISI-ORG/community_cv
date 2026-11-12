@@ -107,6 +107,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **Routing Security SIG Co-Chair Nominee** (APNIC 52, 2021) - Nominated for leadership position based on recognized expertise
 
 #### Infrastructure Policy
+- **Malaysian Communications and Multimedia Commission (MCMC) IPv6 Adoption Task Force** (Hybrid, 26 February 2026) - Keynote "Case Study in Achieving 80%+ Native IPv6 SOHO Network" at Task Force Meeting No. 4, invited by MCMC to give implementation experience to the industry task force preparing Malaysia's IPv6-only Adoption Action Plan
 - **Engineers Australia / Infrastructure Australia Telecommunications and Digital Infrastructure Roundtable** (Online, August-September 2020) - Engineers Australia ITEE College delegate on the expert panel that developed policy recommendations for Infrastructure Australia; worked on communications resilience for bushfires in rural and remote areas, and on building telecommunications into other infrastructure at the design stage; the panel's input fed into the 2021 Australian Infrastructure Plan
 
 ---
@@ -209,6 +210,9 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 ## Research & Technical Contributions
 
+### Infrastructure Standards
+- **IETF Internet-Draft** - ["Operational Guidelines for RPKI Delegated Certification Authorities"](https://datatracker.ietf.org/doc/draft-sweetser-bcp-rpki-ca/) (draft-sweetser-bcp-rpki-ca, sole author, intended status Best Current Practice; -00 August 2025, -02 September 2026) - Operational guidance for delegated RPKI CAs and the registries that manage them, covering CA availability, publication quality and lifecycle management
+
 ### Routing Security Research & Advocacy
 - **RPKI Adoption Study** - "Status of RPKI in Australia and New Zealand" (Internet Society/MANRS, June 2022), a routing test of Australian and New Zealand government and critical-infrastructure websites; launched on the MANRS blog as "Routing Security a Work in Progress in Australia, New Zealand" (28 June 2022)
 - **Internet Society report** - "Measuring the Impact of Local IXPs" (Internet Society, 2021)
@@ -227,7 +231,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   - ["Status of RPKI in Australia and New Zealand"](https://blog.apnic.net/2022/10/14/status-of-rpki-in-australia-and-new-zealand/) (October 2022)
   - ["Using ccTLD data to study the impact of local IXPs"](https://blog.apnic.net/2022/05/10/using-cctld-data-to-study-the-impact-of-local-ixps/) (May 2022)
 - **Internet Society Pulse** - Featured author on IPv6 adoption and behavioral science: "Why IPv6 Adoption is Stalled: The Behavioral Science Behind Internet Infrastructure Change"
-- **Conference Presentations** - 30+ talks and panels (2020-2026): routing security and RPKI (10), capacity building and APNIC Academy (6), APNIC and SIG governance (5), IXPs and peering (4), regional Internet development (4), IPv6 and Segment Routing (3), DNS (1); plus 6 sessions moderated or chaired
+- **Conference Presentations** - 30+ talks and panels (2020-2026): routing security and RPKI (10), capacity building and APNIC Academy (6), APNIC and SIG governance (5), IXPs and peering (4), regional Internet development (4), IPv6 and Segment Routing (4), DNS (1); plus 6 sessions moderated or chaired
 - **APNIC Academy Webinars** - Technical webinar series including "How to set up Router/OS 7 and ROV" (November 2022) on Mikrotik RPKI implementation
 - **Open Source Training Materials** - Curriculum and educational resources at [github.com/IEISI-ORG](https://github.com/IEISI-ORG/)
 
