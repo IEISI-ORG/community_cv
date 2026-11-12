@@ -191,6 +191,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **NetThing 2023** (Brisbane, Australia) - Australian Internet Governance Forum (formerly NetThing) participation
 
 #### Internet Governance
+- **2026 World Internet Conference Wuzhen Summit** (Wuzhen, China, November 2026) - Invited speaker at the CNCERT/CC Cybersecurity Forum for Technology Development and International Cooperation, "Trust, But Verify: Routing security from RPKI to ASPA" (4 November); keynote at the Forum on Digital Infrastructure Construction and Development on routing as the trust layer under AI services, upgraded from a panel seat by the WIC secretariat (5 November)
 - **inSIG 2024** (Bengaluru, India, September-October 2024) - Presented "Routing security standards: RPKI, ROA" in the GFCE Triple-I workshop
 - **inSIG 2023** (Guwahati, India, September-October 2023) - Discussant on open standards (RPKI and ROA) at the GFCE Triple-I workshop
 - **Afghanistan IGF 2023 / AFNOG 1** (Online, December 2023) - Presented APNIC Academy training opportunities for young engineers in Afghanistan
@@ -234,7 +235,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   - ["Status of RPKI in Australia and New Zealand"](https://blog.apnic.net/2022/10/14/status-of-rpki-in-australia-and-new-zealand/) (October 2022)
   - ["Using ccTLD data to study the impact of local IXPs"](https://blog.apnic.net/2022/05/10/using-cctld-data-to-study-the-impact-of-local-ixps/) (May 2022)
 - **Internet Society Pulse** - Featured author on IPv6 adoption and behavioral science: "Why IPv6 Adoption is Stalled: The Behavioral Science Behind Internet Infrastructure Change"
-- **Conference Presentations** - 30+ talks and panels (2020-2026): routing security and RPKI (10), capacity building and APNIC Academy (6), APNIC and SIG governance (5), IXPs and peering (4), regional Internet development (4), IPv6 and Segment Routing (4), DNS (1); plus 7 sessions moderated or chaired
+- **Conference Presentations** - 30+ talks and panels (2020-2026): routing security and RPKI (12), capacity building and APNIC Academy (6), APNIC and SIG governance (5), IXPs and peering (4), regional Internet development (4), IPv6 and Segment Routing (4), DNS (1); plus 7 sessions moderated or chaired
 - **APNIC Academy Webinars** - Technical webinar series including "How to set up Router/OS 7 and ROV" (November 2022) on Mikrotik RPKI implementation
 - **Open Source Training Materials** - Curriculum and educational resources at [github.com/IEISI-ORG](https://github.com/IEISI-ORG/)
 
@@ -244,7 +245,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 ### Regional Coverage
 
-**In-Person Engagement — 22 Economies Across All 4 APNIC Subregions:**
+**In-Person Engagement — 23 Economies Across All 4 APNIC Subregions:**
 
 **Oceania (10):** Australia, New Zealand, Fiji, Papua New Guinea, Solomon Islands, Vanuatu, Guam, Cook Islands, Tonga, Samoa
 
@@ -252,7 +253,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 
 **South-eastern Asia (6):** Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam
 
-**Eastern Asia (1):** Japan
+**Eastern Asia (2):** China, Japan
 
 **Remote & Programmatic Coverage:**
 - **South Asia and Oceania (all economies, both subregions in full)** - as APNIC Training Delivery Manager, South Asia and Oceania (October 2022 - June 2025)
@@ -267,8 +268,8 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **Ongoing:** Continues via PACIXP (committee member since Aug 2024, Secretary since Mar 2025) - the Pacific's first multi-national regional exchange
 
 ### Capacity Building Metrics
-- **Regional Reach:** 22 economies engaged in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
-- **Geographic Coverage:** 22 economies in-person / 56 economies remote (SIG Chair role, 2025-present)
+- **Regional Reach:** 23 economies engaged in-person across all 4 APNIC subregions; full 56-economy remote coverage as current Routing Security SIG Chair
+- **Geographic Coverage:** 23 economies in-person / 56 economies remote (SIG Chair role, 2025-present)
 - **Workshop Instruction:** 23 multi-day technical workshops (2022-2025), 16 of them four to six days: routing and network security (7), IPv6 deployment (5), network management and monitoring (4), network automation (3), and one each on routing fundamentals, IXPs, DNS/DNSSEC, and Segment Routing/SDN
 - **Fellowship Support:** 14 fellowship committee appointments (2020-2027)
 - **Consecutive Program Facilitation:** APRICOT Fellows Skills Workshop, 3 years running (2024-2026)
