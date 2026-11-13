@@ -68,6 +68,9 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **APRICOT 2025 Fellows Skills Workshop** (Malaysia, February 2025) - Co-facilitator with William Stockbridge, Aftab Siddiqui, and Robbie Mitchell
 - **APRICOT 2024 "Elevating Soft Skills of Network/Systems Engineers"** (Thailand, February 2024) - Co-facilitator with Aftab Siddiqui, Sarah Lake, and William Stockbridge, covering presentation skills, public speaking, leadership, and incident management
 
+### Selection & Review Panels
+- **ISIF Asia 2026 Grants – Technical Reviewer** (APNIC Foundation, March–June 2026)
+
 ### Conference Program & Organizing Committees
 
 #### APNIC/APRICOT Conference Leadership
