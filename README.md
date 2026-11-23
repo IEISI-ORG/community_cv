@@ -36,6 +36,7 @@
 - **Member** - auDA (.au Domain Administration)
 - **Member** - InternetNZ (.nz Domain Administration)
 - **Member** - PICISOC (Pacific Islands Chapter of the Internet Society)
+- **Member** - ICANN Internet Service Providers and Connectivity Providers Constituency (ISPCP), representing HIT Pacific Broadband (IEISI.ORG PTY LTD), admitted November 2026
 
 ---
 
