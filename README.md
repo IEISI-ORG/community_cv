@@ -149,6 +149,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
 - **LKNOG 6** (Colombo, Sri Lanka, November 2022) - Segment Routing & SDN Workshop co-instructor with Warren Finch (APNIC) + "IPv6 Implementation Stories and Where to Start" presentation; first in-country delivery as APNIC Training Delivery Manager
 
 #### Pacific NOGs
+- **PacNOG 38** (Majuro, Marshall Islands, November 2026; presented remotely) - Invited by PITA to give the Day 1 conference talk "Pacific Peering Report: does Pacific-to-Pacific traffic stay in the Pacific?" (23 November), on how traffic moves between Pacific networks, with route origin validation, ASPA and IPv6 figures from that month's measurements
 - **PacNOG 33** (Guam, June 2024) - "Career Development for Pacific Network Engineers" + 4-day Network Management and Monitoring Workshop instructor
 - **PacNOG 32** (Tonga, December 2023) - IPv6 Workshop instructor (program also ran a separate Security Workshop track)
 - **PacNOG 31** (Vanuatu, June 2023) - Basic Routing Workshop lead instructor covering routing fundamentals and Linux introduction (program also ran a parallel Practical Cyber Security Workshop track)
@@ -238,7 +239,7 @@ Extensive leadership in Asia-Pacific Internet community development through comm
   - ["Status of RPKI in Australia and New Zealand"](https://blog.apnic.net/2022/10/14/status-of-rpki-in-australia-and-new-zealand/) (October 2022)
   - ["Using ccTLD data to study the impact of local IXPs"](https://blog.apnic.net/2022/05/10/using-cctld-data-to-study-the-impact-of-local-ixps/) (May 2022)
 - **Internet Society Pulse** - Featured author on IPv6 adoption and behavioral science: "Why IPv6 Adoption is Stalled: The Behavioral Science Behind Internet Infrastructure Change"
-- **Conference Presentations** - 30+ talks and panels (2020-2026): routing security and RPKI (12), capacity building and APNIC Academy (6), APNIC and SIG governance (5), IXPs and peering (4), regional Internet development (4), IPv6 and Segment Routing (4), DNS (1); plus 7 sessions moderated or chaired
+- **Conference Presentations** - 30+ talks and panels (2020-2026): routing security and RPKI (12), capacity building and APNIC Academy (6), APNIC and SIG governance (5), IXPs and peering (5), regional Internet development (4), IPv6 and Segment Routing (4), DNS (1); plus 7 sessions moderated or chaired
 - **APNIC Academy Webinars** - Technical webinar series including "How to set up Router/OS 7 and ROV" (November 2022) on Mikrotik RPKI implementation
 - **Open Source Training Materials** - Curriculum and educational resources at [github.com/IEISI-ORG](https://github.com/IEISI-ORG/)
 
